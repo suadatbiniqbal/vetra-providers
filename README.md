@@ -1,4 +1,4 @@
-# vetra-providers
+
 # Vetra Providers API
 
 > A fast, multi-provider streaming API that aggregates stream URLs from various providers in parallel.
